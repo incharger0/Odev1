@@ -1,0 +1,5 @@
+ad = input('Adınızı giriniz:')
+no = input('Okul numaranızı giriniz:')
+ders = input('Ders adını giriniz:')
+ort = input('Ortalamanızı giriniz:')
+print(f'Okulumuz {no} numaralı öğrencisi {ad}, bu dönem sonunda {ders} dersinden {ort} ortalama başarmıştır')
